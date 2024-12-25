@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 - 写真撮影
     - 数年前に写真撮影に目覚め、絶景を求めて日本各地を旅しながら激写
     <br>私の作品達をご覧下さい → https://www.flickr.com/people/hidepon/
+    - githubの私のプロフィール写真は自分で撮った一枚です。
