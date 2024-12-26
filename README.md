@@ -1,5 +1,6 @@
 ## hidepon4649 です 👋
 
+
 <!--
 **hidepon4649/hidepon4649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[English README is here](README.en.md)
 
 ## 自己紹介
 
