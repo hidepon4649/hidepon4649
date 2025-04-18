@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Specializes in server-side Java and holds Java certification from Sun/Oracle.
 - Extensive experience with RDB (logical design, SQL, SQL tuning) and holds Oracle certification.
 - Holds various national certifications in information processing (former 1st and 2nd class, DB specialist, security specialist).
-- Participated as a contract engineer for a major transportation equipment manufacturer for about 10 years until 2020.
+- Participated as a contract engineer for a major transportation equipment manufacturer for about 10 years until 2021.
   - The technology used was old, so I became completely out of touch with recent trends.
   - Currently catching up with modern front-end technologies.
     <br>Studying with a modern dual approach: "Hands-on courses on Udemy" and "Pair programming with generative AI".
