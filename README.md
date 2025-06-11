@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     - 応用情報技術者 (旧 1 種)
     - 基本情報処理技術者 (旧 2 種)
   - 【民間試験】
-    - VMWare 社認定 Spring プロフェッショナル
+    - VMWare 社認定 Spring プロフェッショナル [📄 認定証を見る](https://cp.certmetrics.com/vmware/en/public/transcript/a047edd2c9da41acada021d07dd41d1d)
     - Oracle 社認定 Java プログラマ Gold SE17 [📄 認定証を見る](./certificates/pdf/Java17Gold.pdf)
     - Oracle 社認定 Java プログラマ Gold SE8 [📄 認定証を見る](./certificates/pdf/Java8Gold.pdf)
     - Sun 社認定 J2EE Web 開発者 [📄 認定証を見る](./certificates/pdf/J2EE.pdf)
