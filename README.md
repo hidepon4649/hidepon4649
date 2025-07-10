@@ -43,17 +43,17 @@ Here are some ideas to get you started:
     - 応用情報技術者 (旧 1 種)
     - 基本情報処理技術者 (旧 2 種)
   - 【民間試験】
-    - VMWare 社認定 Spring プロフェッショナル [📄 認定証を見る](https://cp.certmetrics.com/vmware/en/public/transcript/a047edd2c9da41acada021d07dd41d1d)
-    - Oracle 社認定 Java プログラマ Gold SE17 [📄 認定証を見る](./certificates/pdf/Java17Gold.pdf)
-    - Oracle 社認定 Java プログラマ Gold SE8 [📄 認定証を見る](./certificates/pdf/Java8Gold.pdf)
-    - Sun 社認定 J2EE Web 開発者 [📄 認定証を見る](./certificates/pdf/J2EE.pdf)
-    - Sun 社認定 Java プログラマ [📄 認定証を見る](./certificates/pdf/Java2.pdf)
-    - HTML5 プロフェッショナル認定試験 レベル 2 [📄 認定証を見る](./certificates/pdf/HTML5v2.pdf)
-    - HTML5 プロフェッショナル認定試験 レベル 1 [📄 認定証を見る](./certificates/pdf/HTML5v1.pdf)
-    - ORACLE MASTER Silver Oracle Database 12c [📄 認定証を見る](./certificates/pdf/Oracle12cSilver.pdf)
+    - VMWare 社認定 Spring プロフェッショナル
+    - Oracle 社認定 Java プログラマ Gold SE17
+    - Oracle 社認定 Java プログラマ Gold SE8
+    - Sun 社認定 J2EE Web 開発者
+    - Sun 社認定 Java プログラマ
+    - HTML5 プロフェッショナル認定試験 レベル 2
+    - HTML5 プロフェッショナル認定試験 レベル 1
+    - ORACLE MASTER Silver Oracle Database 12c
     - XML マスターベーシック V2
     - LPIC レベル 1
-    - Linuc レベル 1 [📄 認定証を見る](./certificates/pdf/Linuc1.pdf)
+    - Linuc レベル 1
     - Ruby アソシエーション認定シルバー
     - PHP7 技術者認定初級
     - UML 技術者認定 ブロンズ ( オージス総研 )
