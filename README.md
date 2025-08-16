@@ -58,6 +58,8 @@ Here are some ideas to get you started:
     - PHP7 技術者認定初級
     - UML 技術者認定 ブロンズ ( オージス総研 )
     - TOEIC 735 点
+  - 【バッジ】 
+    - [Credly](https://www.credly.com/users/hidenori-mishima/badges)
 
 ### プライベート
 
