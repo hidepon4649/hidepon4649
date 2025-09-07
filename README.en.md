@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   - Currently catching up on modern frontend technologies.  
     <br>My study approach is a modern dual-style: "Hands-on courses on Udemy" and "Pair programming with generative AI."  
     <br>I'm sharing the results in my [portfolio](https://github.com/hidepon4649/AttendanceManagement).
-  - I'm also posting insights from my studies on [Qiita](https://qiita.com/hidepon4649).
 - I have plenty of experience collaborating with junior engineers and actively engage in knowledge sharing and discussions.
 - I love open, forward-thinking, and productive teams.
 - I also have extensive experience maintaining legacy systems (debugging and adding features), though I prefer new development.
