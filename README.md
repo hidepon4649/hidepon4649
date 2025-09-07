@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   - 現在、モダンなフロントエンド技術をキャッチアップ中です。
     <br>勉強方法は今風な二刀流です「Udemy のハンズオン講座」「生成 AI とのペアプロ」
     <br>勉強の成果を ポートフォリオ [作品1](https://github.com/hidepon4649/AttendanceManagement), [作品2](https://github.com/hidepon4649/meetingroom-reservation-app) で公開しています。
-  - 勉強中の気付きを[qiita](https://qiita.com/hidepon4649)に投稿してます。
 - 若手エンジニアとの協業経験が豊富で、知識共有や意見交換も積極的にやってます。
 - オープンで前向きな生産的チームが大好きです。
 - レガシーシステムの保守(デバッグや機能追加)も経験豊富です。(でも、新規開発の方が好きです。)
